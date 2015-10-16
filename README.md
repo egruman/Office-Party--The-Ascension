@@ -4,4 +4,4 @@ Hello
 
 ===================
 
-This is the official folder for Office Party the ascension
+This is the official folder for Office Party: The Ascension
